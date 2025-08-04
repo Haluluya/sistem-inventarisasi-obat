@@ -172,8 +172,6 @@ Aplikasi ini dibuat untuk keperluan pembelajaran dan pengembangan sistem inventa
 
 ## 👨‍💻 Developer
 
-Dikembangkan menggunakan Laravel framework dengan best practices untuk keamanan, performa, dan maintainability.
-
 ---
 
 **Catatan:** Pastikan semua persyaratan sistem terpenuhi sebelum instalasi. Untuk production deployment, gunakan web server yang proper dan konfigurasi keamanan yang sesuai.
